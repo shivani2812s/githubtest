@@ -1,4 +1,4 @@
-yyyyyyyyyyyyyyyyyyyyyyyyyyimport java.io.*;
+import java.io.*;
 class xyz
 {
 public static void main(String args[])throws IOException
